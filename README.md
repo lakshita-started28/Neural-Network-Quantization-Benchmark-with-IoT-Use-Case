@@ -44,6 +44,16 @@ Simulates realistic IoT sensor data (e.g., temperature, humidity, CO₂ levels) 
 
 ---
 
+
+📦 Requirements
+bash
+Copy
+Edit
+pip install tensorflow numpy pandas matplotlib scikit-learn
+
+🚀 How to Run
+Open each notebook in Google Colab or Jupyter and run all cells.
+
 ## 💡 Key Takeaway
 > Quantization significantly reduces model size and improves inference time, with minimal accuracy loss — ideal for Edge AI applications in IoT systems.
 
